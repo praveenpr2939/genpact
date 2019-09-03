@@ -5,7 +5,7 @@ public class Book {
 	private float price;
 	
 	public Book() {
-		System.out.println("constructor is called");
+		System.out.println("constructor is called here");
 	}
 	
 	public void init(int bookno, String bookname, String author, String publisher, float price) {
